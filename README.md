@@ -3,11 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alisalama7&label=Profile%20views&color=0e75b6&style=flat" alt="alisalama7" /> </p>
 
-- 🌱 I’m currently learning **Asp.netcore**
+- 🌱 I’m currently Software Developer
 
 - 📫 How to reach me **salamaali9090@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1aAy1WKPn1JtdTSujFFMep4J2nkX3jAZR/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
