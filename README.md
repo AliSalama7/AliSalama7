@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.leetcode.com/alisalama8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="alisalama8" height="30" width="40" /></a>
+<a href="[https://www.leetcode.com/alisalama8](https://leetcode.com/u/aliabosalama/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="alisalama8" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@salamaali9090" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@salamaali9090" height="30" width="40" /></a>
 </p>
 
@@ -19,6 +19,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alisalama7&show_icons=true&locale=en&layout=compact" alt="alisalama7" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alisalama7&show_icons=true&locale=en" alt="alisalama7" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alisalama7&" alt="alisalama7" /></p>
